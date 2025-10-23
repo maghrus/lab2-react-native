@@ -1,0 +1,14 @@
+[
+  { "id": 1, "name": "Java", "image": "./assets/imagini/java.png" },
+  { "id": 2, "name": "Python", "image": "./assets/imagini/python.png" },
+  { "id": 3, "name": "C#", "image": "./assets/imagini/csharp.png" },
+  { "id": 4, "name": "C+", "image": "./assets/imagini/cplus.png" },
+  { "id": 5, "name": "PHP", "image": "./assets/imagini/php.png" },
+  { "id": 6, "name": "React", "image": "./assets/imagini/react.png" },
+  { "id": 7, "name": "JavaScript", "image": "./assets/imagini/js.png" },
+  {
+    "id": 8,
+    "name": "Turbo Pascal",
+    "image": "./assets/imagini/turbo.png"
+  }
+]
